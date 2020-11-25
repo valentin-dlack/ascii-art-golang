@@ -2,7 +2,7 @@
 
 ## Sommaire :
 
-- [Groupe de développement]()
+- [Groupe de développement](#groupe-de-développement)
 - [Mettre en place le programme]()
 - [Cas d'utilisation]()
 - [Licence]()
