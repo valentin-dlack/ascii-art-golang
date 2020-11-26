@@ -5,7 +5,7 @@
 - [Groupe de développement](#groupe-de-développement)
 - [Mettre en place le programme](#mettre-en-place-le-programme)
 - [Cas d'utilisation](#utilisation-du-programme)
-- [Licence](#licence)
+- [Licence](#license)
 
 ## Groupe de développement
 
@@ -54,7 +54,7 @@ Le programme possède plusieurs arguments :
 | `"text"--color=couleur`  | Permet de coloriser le texte. N'est disponible qu'avec ces couleurs : `Red, Green, Yellow, Blue, Purple, Cyan, White`. Attention a respecter la casse ! |
 | `"text" template`   | Permet de changer le résultat de l'ascii art selon les templates disponibles. Templates disponibles : `standart|shadow|thinkertoy`|
 | `"text" --align=alignement`   | Permet de changer l'alignement du texte dans le terminal. Alignements disponibles : `right|left|center`|
-| `"text" --output=filename.txt` | Permet d'envoyer le résultat du programme dans un fichier texte |
+| `"text" --output=filename.txt` | Permet d'envoyer le résultat du programme dans un fichier texte. `filename` est le nom du fichier ou sera stocké le résultat de la commande |
 
 ---
 Les arguments sont stackables, vous pouvez en utiliser plusieurs dans une commande. Exemples si dessous :
