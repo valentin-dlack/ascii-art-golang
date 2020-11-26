@@ -302,7 +302,7 @@ func main() {
 									}
 								} else {
 									//cherche la position du texte avec l'aide de l'ascii table
-									for countn != j*9+ligne+1 {
+									for countn != j*9+ligne {
 										pos++
 										if text[pos] == '\n' {
 											countn++
